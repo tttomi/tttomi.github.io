@@ -1,0 +1,78 @@
+h1 {
+  position:absolute;
+  left:50px;
+  top:100px;
+  color:red;
+}
+
+/* Energy transition solutions */
+#box1{
+  position:absolute;
+  left:555px;
+  top:570px;
+  width:750px;
+  height:75px;
+  color:red;	
+}
+
+/* Low carbon combustion technologies */
+#box2{
+  position:absolute;
+  left:1620px;
+  top:890px;
+  width:1050px;
+  height:75px;
+  color:red;	
+}
+
+/* Carbon capture and utilisation */
+#box3{
+  position:absolute;
+  left:2900px;
+  top:890px;
+  width:800px;
+  height:75px;
+  color:red;	
+}
+
+/* Solar energy and RES hybrids */
+#box4{
+  position:absolute;
+  left:2225px;
+  top:1640px;
+  width:850px;
+  height:75px;
+  color:red;	
+}
+
+/* Feedstock supply chain management */
+#box5{
+  position:absolute;
+  left:100px;
+  top:2700px;
+  width:1050px;
+  height:100px;
+  color:red;	
+}
+
+/* Energy systems and concepts*/
+#box6{
+  position:absolute;
+  left:1910px;
+  top:2720px;
+  width:850px;
+  height:100px;
+  color:red;	
+}
+
+/* Renewable energy processes*/
+#boxteam{
+  position:absolute;
+  left:555px;
+  top:125px;
+  width:1400px;
+  height:125px;
+  color:red;	
+}
+
+
