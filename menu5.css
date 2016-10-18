@@ -1,0 +1,185 @@
+/* Bio-Dry */
+#box1{
+  position:absolute;
+  left:50px;
+  top:350px;
+  width: 800px;
+  height: 800px; 
+  color:red;	
+}
+
+/* Eijan fuel*/
+#box2{
+  position:absolute;
+  left:950px;
+  top:350px;
+  width: 800px;
+  height: 800px; 
+  color:red;	
+}
+
+/* Back to start */
+#box3{
+  position:absolute;
+  left:1850px;
+  top:350px;
+  width: 800px;
+  height: 800px; 
+  color:red;	
+}
+
+
+#titlebox{
+    position:absolute;
+    left:0px;
+	top:0px;
+	padding: 20px; 
+    width: 1300px;
+    height: 250px; 	
+	
+	border-radius: 25px;
+    border: 5px solid #42bcf4;
+	
+	font-family: Arial;
+	color: black;
+	font-size:68px
+}
+
+#titlebox_sub{
+	position:absolute;
+    left:0px;
+	top:200px;
+	padding: 20px; 
+    width: 1300px;
+    height: 200px; 		
+
+	font-family: Arial;
+	color: black;
+	font-size:52px	
+}
+
+#bannerimage{
+	position:absolute;
+    left:1350px;
+	top:0px;
+	padding: 20px; 
+    width: 1300px;
+    height: 250px; 
+	
+	
+	border:5px solid #42bcf4;
+	border-radius: 25px;
+    background: url("./img/stock_Eija2.jpg");
+	background-size:cover
+}
+
+#bannervtt{
+	position:absolute;
+    left:1150px;
+	top:150px;
+	padding: 20px; 
+    width: 160px;
+    height: 100px; 
+
+}
+
+#textbox1{
+	text-align:center;
+	padding-top:20px;
+	
+	position:absolute;
+	left:50px;
+	top:1160px;
+    width: 800px;
+    height: 80px; 
+	
+	font-family: Arial;
+	color: black;
+	font-size:40px;
+	
+	border:5px solid #42bcf4;
+	border-radius: 25px;
+	
+}
+
+#textbox2{
+	text-align:center;
+	padding-top:20px;
+
+	position:absolute;
+    left:950px;
+	top:1160px;
+    width: 800px;
+    height: 80px; 
+
+	font-family: Arial;
+	color: black;
+	font-size:40px;
+	
+	border:5px solid #42bcf4;
+	border-radius: 25px;
+	
+}
+
+#textbox3{
+	text-align:center;
+	padding-top:20px;
+
+	position:absolute;
+	left:1850px;
+	top:1160px;
+    width: 800px;
+    height: 80px; 
+
+	font-family: Arial;
+	color: black;
+	font-size:40px;
+	
+	border:5px solid #42bcf4;
+	border-radius: 25px;
+	
+}
+
+
+
+#leftimage1 {
+	position:absolute;
+	left:50px;
+	top:350px;
+    width: 800px;
+    height: 800px; 
+
+	
+	border:5px solid #42bcf4;
+	border-radius: 25px;
+    background: url("./img/stock_Jyrki2.png");
+	background-size:cover
+	
+}
+
+#leftimage2 {
+	position:absolute;
+	left:950px;
+	top:350px;
+    width: 800px;
+    height: 800px; 
+	
+	border:5px solid #42bcf4;
+	border-radius: 25px;
+    background: url("./img/stock_Eija3.png");
+	background-size:cover
+}
+
+#mainimage {
+	position:absolute;
+	left:1850px;
+	top:350px;
+    width: 800px;
+    height: 800px; 
+	
+	border:5px solid #42bcf4;
+	border-radius: 25px;
+    background: url("./img/stock_poster.jpg");
+	background-size:cover
+}
+
