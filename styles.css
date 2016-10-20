@@ -65,6 +65,16 @@ h1 {
   color:red;	
 }
 
+/* Ash recycling*/
+#box7{
+  position:absolute;
+  left:230px;
+  top:1135px;
+  width:200px;
+  height:100px;
+  color:red;	
+}
+
 /* Renewable energy processes*/
 #boxteam{
   position:absolute;
@@ -74,3 +84,15 @@ h1 {
   height:125px;
   color:red;	
 }
+
+/* Infra external link*/
+#boxinfra{
+  position:absolute;
+  left:590px;
+  top:1375px;
+  width:150px;
+  height:100px;
+  color:red;	
+}
+
+
