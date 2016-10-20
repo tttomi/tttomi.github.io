@@ -233,8 +233,10 @@
 	
 	position:absolute;
 	left:100px;
-	top:1260px;
-    width: 1362px;
-    height: 150px; 
+	top:895px;
+	padding: 20px; 
+    width: 1000px;
+    height: 500px; 
+	
 
 }

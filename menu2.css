@@ -197,23 +197,6 @@
 	
 }
 
-#textbox6{
-	text-align:center;
-	padding-top:20px;
-
-	position:absolute;
-	left:600px;
-	top:350px;
-	width: 450px;
-    height: 80px; 
-
-	font-family: Arial;
-	color: white;
-	font-size:40px;
-	
-}
-
-
 #leftimage1 {
 	position:absolute;
 	left:100px;
