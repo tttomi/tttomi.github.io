@@ -69,18 +69,17 @@
 	
 	border:5px solid #42bcf4;
 	border-radius: 25px;
-    background: url("./img/stock_Eemeli6.png");
+    background: url("./img/stock_Pasi1.png");
 	background-size:cover
 }
 
 #bannervtt{
 	position:absolute;
-    left:1150px;
-	top:150px;
+    left:1140px;
+	top:160px;
 	padding: 20px; 
     width: 160px;
     height: 100px; 
-
 }
 
 #textbox1{
@@ -150,9 +149,8 @@
 	
 	border:5px solid #42bcf4;
 	border-radius: 25px;
-    background: url("./img/stock_Pasi.png");
-    background-size:800px 900px;
-	
+    background: url("./img/menu1_neo.png");
+	background-size:cover
 }
 
 #leftimage2 {
@@ -164,7 +162,7 @@
 	
 	border:5px solid #42bcf4;
 	border-radius: 25px;
-    background: url("./img/stock_Pasi5.png");
+    background: url("./img/menu1_neo.png");
 	background-size:cover
 }
 

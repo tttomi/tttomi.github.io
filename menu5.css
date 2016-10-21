@@ -69,18 +69,17 @@
 	
 	border:5px solid #42bcf4;
 	border-radius: 25px;
-    background: url("./img/stock_Eija2.jpg");
+    background: url("./img/menu5_banner.png");
 	background-size:cover
 }
 
 #bannervtt{
 	position:absolute;
-    left:1150px;
-	top:150px;
+    left:1140px;
+	top:160px;
 	padding: 20px; 
     width: 160px;
     height: 100px; 
-
 }
 
 #textbox1{
@@ -152,7 +151,7 @@
 	
 	border:5px solid #42bcf4;
 	border-radius: 25px;
-    background: url("./img/stock_Jyrki2.png");
+    background: url("./img/menu5_forpower.png");
 	background-size:cover
 	
 }
@@ -166,7 +165,7 @@
 	
 	border:5px solid #42bcf4;
 	border-radius: 25px;
-    background: url("./img/stock_Eija3.png");
+    background: url("./img/menu5_properties.png");
 	background-size:cover
 }
 

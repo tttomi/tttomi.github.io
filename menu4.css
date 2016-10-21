@@ -75,12 +75,11 @@
 
 #bannervtt{
 	position:absolute;
-    left:1150px;
-	top:150px;
+    left:1140px;
+	top:160px;
 	padding: 20px; 
     width: 160px;
     height: 100px; 
-
 }
 
 #textbox1{

@@ -59,18 +59,17 @@
 	
 	border:5px solid #42bcf4;
 	border-radius: 25px;
-    background: url("./img/stock_Eija2.jpg");
+    background: url("./img/stock_Eemeli6.png");
 	background-size:cover
 }
 
 #bannervtt{
 	position:absolute;
-    left:1150px;
-	top:150px;
+    left:1140px;
+	top:160px;
 	padding: 20px; 
     width: 160px;
     height: 100px; 
-
 }
 
 
@@ -121,7 +120,7 @@
 	
 	border:5px solid #42bcf4;
 	border-radius: 25px;
-    background: url("./img/stock_Eemeli4.png");
+    background: url("./img/menu6_biodry.png");
 	background-size:cover
 }
 
