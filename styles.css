@@ -100,12 +100,12 @@
 }
 
 #bgimage {
-	position:absolute;
-	left:0px;
-	top:0px;
-    width: 1280px;
-    height: 906px; 
 	
-    background: url("./poster_1280.jpg");
-	background-size:contain
+  position:absolute;
+  left:0px;
+  top:0px;
+  width: 1280px;
+  height: 906px; 
+  background: url("./poster_1280.jpg");
+  background-size:contain
 }
