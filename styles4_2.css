@@ -1,7 +1,7 @@
 .button{
 	position:absolute;
 	left:2450px;
-	top:500px;
+	top:700px;
     width: 200px;
     height: 400px; 
 	line-height:400px;
@@ -211,7 +211,7 @@
 #mainimage {
 	position:absolute;
 	left:2450px;
-	top:950px;
+	top:1200px;
     width: 200px;
     height: 400px; 
 	
@@ -225,7 +225,7 @@
 #box2{
 	position:absolute;
 	left:2450px;
-	top:950px;
+	top:1200px;
     width: 200px;
     height: 400px; 
 	color:red;	
