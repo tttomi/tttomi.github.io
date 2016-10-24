@@ -2,10 +2,21 @@
 /* Energy transition solutions */
 #box1{
   position:absolute;
-  left:270px;
-  top:280px;
-  width:400px;
-  height:40px;
+  left:160px;
+  top:180px;
+  width:250px;
+  height:30px;
   color:red;	
+}
+
+#bgimage {
+	position:absolute;
+	left:0px;
+	top:0px;
+    width: 1280px;
+    height: 906px; 
+	
+    background: url("./poster_1280.jpg");
+	background-size:contain
 }
 
