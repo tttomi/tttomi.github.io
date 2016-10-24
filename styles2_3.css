@@ -83,6 +83,8 @@
 #textbox2{
 	text-align:center-left;
 	padding:20px;
+	padding-left: 42px;
+	text-indent: -22px;
 	
 	position:absolute;
     left:1760px;
