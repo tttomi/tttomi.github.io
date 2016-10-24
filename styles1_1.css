@@ -87,7 +87,7 @@
     width: 205px;
     height: 460px; 
 	
-	border:2.5px solid #42bcf4;
+    border: 5px solid #42bcf4;
 	border-radius: 25px;
     background: url("./img/stock_Pasi6.png");
 	background-size:cover
@@ -100,7 +100,7 @@
     width: 205px;
     height: 460px; 
 	
-	border:2.5px solid #42bcf4;
+    border: 5px solid #42bcf4;
 	border-radius: 25px;
     background: url("./img/stock_Pasi6b.png");
 	background-size:cover
