@@ -94,7 +94,7 @@
 	
 	border:5px solid #42bcf4;
 	border-radius: 25px;
-    background: url("./img/stock_Eemeli6.png");
+    background: url("./img/menu6_banner2.jpg");
 	background-size:cover
 }
 
@@ -177,19 +177,6 @@
 }
 
 
-#areaimage {
-	position:absolute;
-	left:2450px;
-	top:400px;
-    width: 200px;
-    height: 400px; 
-	
-	border:5px solid #42bcf4;
-	border-radius: 25px;
-	background: url("./img/poster_ico.png");
-	background-size:cover
-}
-
 #mainimage {
 	position:absolute;
 	left:2450px;
@@ -199,7 +186,7 @@
 	
 	border:5px solid #42bcf4;
 	border-radius: 25px;
-	background: url("./img/poster_ico.png");
+    background: url("./img/poster_ico_200x400.png");
 	background-size:cover
 }
 

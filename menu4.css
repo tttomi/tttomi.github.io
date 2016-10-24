@@ -149,7 +149,7 @@
 	
 	border:5px solid #42bcf4;
 	border-radius: 25px;
-    background: url("./img/stock_Pasi.png");
+	background: url("./img/menu4_solarthermal.jpg");
     background-size:800px 900px;
 	
 }
@@ -163,7 +163,7 @@
 	
 	border:5px solid #42bcf4;
 	border-radius: 25px;
-    background: url("./img/stock_Pasi5.png");
+	background: url("./img/menu4_res.jpg");
 	background-size:cover
 }
 
@@ -176,7 +176,7 @@
 	
 	border:5px solid #42bcf4;
 	border-radius: 25px;
-    background: url("./img/poster_ico_l.png");
+    background: url("./img/poster_ico_800x800.png");
 	background-size:cover
 }
 

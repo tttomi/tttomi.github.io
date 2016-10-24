@@ -106,6 +106,7 @@
 	padding: 20px; 
     width: 160px;
     height: 100px; 
+	
 }
 
 #textbox1{
@@ -187,7 +188,7 @@
 	
 	border:5px solid #42bcf4;
 	border-radius: 25px;
-	background: url("./img/poster_ico.png");
+    background: url("./img/poster_ico_200x400.png");
 	background-size:cover
 }
 

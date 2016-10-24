@@ -1,7 +1,17 @@
 /* Bio-Dry*/
 #box1{
   position:absolute;
-  left:450px; 
+  left:50px;
+  top:350px;
+  width: 800px;
+  height: 800px; 
+  color:red;	
+}
+
+/* Dynamic simulation */
+#box2{
+  position:absolute;
+  left:950px;
   top:350px;
   width: 800px;
   height: 800px; 
@@ -9,15 +19,14 @@
 }
 
 /* Back to start */
-#box2{
+#box3{
   position:absolute;
-  left:1300px;
+  left:1850px;
   top:350px;
   width: 800px;
   height: 800px; 
-  color:red;	
+  color:red;
 }
-
 
 #titlebox{
     position:absolute;
@@ -56,10 +65,9 @@
     width: 1300px;
     height: 250px; 
 	
-	
 	border:5px solid #42bcf4;
 	border-radius: 25px;
-    background: url("./img/stock_Eemeli6.png");
+    background: url("./img/menu6_banner2.jpg");
 	background-size:cover
 }
 
@@ -76,13 +84,13 @@
 #textbox1{
 	text-align:center;
 	padding-top:20px;
-
+	
 	position:absolute;
-	left:450px;
+	left:50px;
 	top:1160px;
     width: 800px;
     height: 80px; 
-
+	
 	font-family: Arial;
 	color: black;
 	font-size:40px;
@@ -97,7 +105,26 @@
 	padding-top:20px;
 
 	position:absolute;
-	left:1300px;
+    left:950px;
+	top:1160px;
+    width: 800px;
+    height: 80px; 
+
+	font-family: Arial;
+	color: black;
+	font-size:40px;
+	
+	border:5px solid #42bcf4;
+	border-radius: 25px;
+}
+
+
+#textbox3{
+	text-align:center;
+	padding-top:20px;
+
+	position:absolute;
+	left:1850px;
 	top:1160px;
     width: 800px;
     height: 80px; 
@@ -113,7 +140,7 @@
 
 #leftimage1 {
 	position:absolute;
-	left:450px;
+	left:50px;
 	top:350px;
     width: 800px;
     height: 800px; 
@@ -124,16 +151,29 @@
 	background-size:cover
 }
 
-#mainimage {
+#leftimage2 {
 	position:absolute;
-	left:1300px;
+	left:950px;
 	top:350px;
     width: 800px;
     height: 800px; 
 	
 	border:5px solid #42bcf4;
 	border-radius: 25px;
-    background: url("./img/poster_ico_l.png");
+    background: url("./img/menu6_recovery.png");
+	background-size:cover
+}
+
+#mainimage {
+	position:absolute;
+	left:1850px;
+	top:350px;
+    width: 800px;
+    height: 800px; 
+	
+	border:5px solid #42bcf4;
+	border-radius: 25px;
+    background: url("./img/poster_ico_800x800.png");
 	background-size:cover
 }
 
