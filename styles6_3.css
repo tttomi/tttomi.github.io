@@ -119,7 +119,6 @@
 	width: 889px;
     height:410px; 
 	
-	
 	border:5px solid #42bcf4;
 	border-radius: 25px;
 	
@@ -152,8 +151,7 @@
 #leftimage1 {
 	position:absolute;
     left:100px;
-	/*top:350px;*/
-	top:550px;
+	top:350px;
 	width: 951px;
     height: 608px; 
 	
@@ -167,8 +165,7 @@
 #leftimage2 {
 	position:absolute;
     left:1201px;
-	/*top:550px;*/
-	top:550px;
+	top:350px;
 	width: 951px;
     height: 608px; 
 	
