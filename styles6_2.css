@@ -134,7 +134,7 @@
     width: 160px;
     height: 100px; 
 }
-
+/*
 #textbox1{
 	text-align:center-left;
 	padding:20px;
@@ -155,7 +155,7 @@
 	color: black;
 	font-size:40px
 }	
-
+*/
 
 #leftimage1 {
 	position:absolute;
@@ -174,7 +174,8 @@
 #leftimage2 {
 	position:absolute;
     left:942px;
-	top:350px;
+	/*top:350px;*/
+	top:500px;
     width: 1300px;
     height: 750px; 
 	
