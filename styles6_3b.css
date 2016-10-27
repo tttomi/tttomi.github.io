@@ -94,10 +94,10 @@ ul li { padding: 5px 0px; }
     height: 250px; 
 	
 	
-	border:5px solid #42bcf4;
-	border-radius: 25px;
+    border:5px solid #42bcf4;
+    border-radius: 25px;
     background: url("./img/menu6_banner2.jpg");
-	background-size:cover
+    background-size:cover
 }
 
 #bannervtt{
@@ -132,13 +132,13 @@ ul li { padding: 5px 0px; }
 	position:absolute;
     left:100px;
 	top:450px;
-	width:1020px ;
+    width:1020px ;
     height: 765px; 
 	
-	border:5px solid #42bcf4;
-	border-radius: 25px;
-    background: url("./img/stock_Eemeli8.png");
-	background-size:cover
+    border:5px solid #42bcf4;
+    border-radius: 25px;
+    background: url("./img/stock_Eemeli8.png"); 
+    background-size:cover;
 }
 
 #mainimage {
